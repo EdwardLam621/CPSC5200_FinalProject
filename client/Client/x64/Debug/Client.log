@@ -1,0 +1,7 @@
+﻿  Reading Qt configuration (ERROR: Qt install dir not found\bin\qmake.exe)
+Client.vcxproj : error : ERROR running qmake
+Client.vcxproj : error : qmake: (ERROR: Qt install dir not found\bin\qmake.exe)
+Client.vcxproj : error : qmake: $PWD=C:\Users\Edward\AppData\Local\Temp\fwknhfjs.gay
+Client.vcxproj : error : qmake: The filename, directory name, or volume label syntax is incorrect.
+Client.vcxproj : error : qmake: Error creating Makefile
+Client.vcxproj : error : 
